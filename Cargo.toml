@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "aggregating",
+    "bootstrapping"
+]
+resolver = "2"

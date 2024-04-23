@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.RData
+.Rhistory
+/data/*.csv
+/data/*.dot
+/results
+/target

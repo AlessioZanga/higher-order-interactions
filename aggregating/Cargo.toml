@@ -1,0 +1,11 @@
+[package]
+name = "aggregating"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+causal-hub = { git = "https://github.com/AlessioZanga/causal-hub", rev = "5396c240eb620419257127415e7f9895b13c8b23" }
+itertools = "0.10.5"
+md5 = "0.7.0"
+rayon = "1.6.1"
+rustc-hash = "1.1.0"

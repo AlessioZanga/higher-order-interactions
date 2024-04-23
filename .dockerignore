@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+.RData
+.Rhistory
+data/*.csv
+data/*.dot
+renv
+results
+target
+
+!renv/activate.R
+!renv/settings.json
